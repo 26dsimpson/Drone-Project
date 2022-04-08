@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  },
+  "name": "drone-project",
+  "version": "1.0.0",
+  "main": "telloDanielle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/26dsimpson/Drone-Project.git"
+  },
+  "author": "Danielle Simpson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/26dsimpson/Drone-Project/issues"
+  },
+  "homepage": "https://github.com/26dsimpson/Drone-Project#readme",
+  "description": "Making a drone move around/fly"
+}
